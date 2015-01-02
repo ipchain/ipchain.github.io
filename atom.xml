@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[An Information Security Blog]]></title>
+  <link href="http://ipchain.github.io/atom.xml" rel="self"/>
+  <link href="http://ipchain.github.io/"/>
+  <updated>2015-01-02T07:16:46-05:00</updated>
+  <id>http://ipchain.github.io/</id>
+  <author>
+    <name><![CDATA[ipchain]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Starting 2015 With a Blog]]></title>
+    <link href="http://ipchain.github.io/blog/2015/01/02/starting-2015-with-a-blog/"/>
+    <updated>2015-01-02T07:16:36-05:00</updated>
+    <id>http://ipchain.github.io/blog/2015/01/02/starting-2015-with-a-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
